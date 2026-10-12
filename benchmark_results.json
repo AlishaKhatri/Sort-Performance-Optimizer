@@ -1,0 +1,74 @@
+{
+    "Order Processing Queue": {
+        "Bubble Sort": {
+            "runtime_ms": 32.709,
+            "memory_kb": 39.293
+        },
+        "Selection Sort": {
+            "runtime_ms": 11031.049,
+            "memory_kb": 39.324
+        },
+        "Insertion Sort": {
+            "runtime_ms": 12.753,
+            "memory_kb": 39.199
+        },
+        "Merge Sort": {
+            "runtime_ms": 59.876,
+            "memory_kb": 97.719
+        }
+    },
+    "Product Catalog": {
+        "Bubble Sort": {
+            "runtime_ms": 25524.96,
+            "memory_kb": 39.324
+        },
+        "Selection Sort": {
+            "runtime_ms": 9163.093,
+            "memory_kb": 39.324
+        },
+        "Insertion Sort": {
+            "runtime_ms": 9667.966,
+            "memory_kb": 39.199
+        },
+        "Merge Sort": {
+            "runtime_ms": 91.032,
+            "memory_kb": 81.922
+        }
+    },
+    "Inventory Reconciliation": {
+        "Bubble Sort": {
+            "runtime_ms": 25611.536,
+            "memory_kb": 39.324
+        },
+        "Selection Sort": {
+            "runtime_ms": 8737.173,
+            "memory_kb": 39.324
+        },
+        "Insertion Sort": {
+            "runtime_ms": 9618.32,
+            "memory_kb": 39.199
+        },
+        "Merge Sort": {
+            "runtime_ms": 86.197,
+            "memory_kb": 81.922
+        }
+    },
+    "Customer Activity Log": {
+        "Bubble Sort": {
+            "runtime_ms": 16559.734,
+            "memory_kb": 39.324
+        },
+        "Selection Sort": {
+            "runtime_ms": 8544.355,
+            "memory_kb": 39.324
+        },
+        "Insertion Sort": {
+            "runtime_ms": 850.203,
+            "memory_kb": 39.199
+        },
+        "Merge Sort": {
+            "runtime_ms": 62.354,
+            "memory_kb": 96.469
+        }
+    }
+}
